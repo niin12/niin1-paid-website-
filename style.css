@@ -18,7 +18,7 @@ body{
     justify-content: center;
     height: 350px;
     width: 300px;
-    background-color: #f20707;
+    background-color: red;
     border-radius: 10px;
     padding: 20px;
 }
