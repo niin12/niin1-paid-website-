@@ -1,12 +1,29 @@
-*{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
-
 body{
     background-color: green;
     display: grid;
     place-items: center;
     height: 50vh;
+}
+
+
+button{
+  border: none;
+  background-color: rgb(28, 0, 128);
+  color: #ef0505;
+  font-size: 20px;
+  padding: 10px;
+  cursor: pointer;
+  border-radius: 5px;
+  margin-top: 20px;
+}
+
+.container{
+  display: flex;
+  flex-direction: column;
+  place-items: center;
+  height: 440px;
+  width: 300px;
+  background-color: #e00606;
+  border-radius: 10px;
+  padding: 20px;
 }
